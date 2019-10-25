@@ -3,6 +3,14 @@ Colors to use:
 dark blue: #06365f
 light blue: #1c5380;
 */
+html{
+  margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
 
 body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
